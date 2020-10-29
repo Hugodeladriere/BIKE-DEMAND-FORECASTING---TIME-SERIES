@@ -10,5 +10,5 @@ You can find the data on this link : https://www.dropbox.com/s/ic8m0b3mf5wxk4r/c
 
 
 
-According to the titlle of the notebook you can find all the data viz, the features engineering and the model used. The Best result that we have is through the 1D Cnn model.
+In this project you will find all the data viz, the features engineering and the model used. 
 
